@@ -1,4 +1,4 @@
-# MustGather hands On for specific problems and components
+# MustGather hands On for specific problems
 
 ## Performance, hang, or high CPU
 - [pdpro - hang test case](https://github.com/pdprof/crash-heapdump/tree/master/pdpro-docker)
