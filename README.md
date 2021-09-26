@@ -12,6 +12,7 @@
 ## Security
 - [ssl - ssl trace / mustgather-ssl-1](https://github.com/pdprof/ssl/tree/master/docker/mustgather-ssl-1)
 - [ssl.standalone - check server ciphers / mustgather-ssl-2](https://github.com/pdprof/ssl/tree/master/docker/mustgather-ssl-2)
+- [security.auth - SAML login / mustgahter-saml-1](https://github.com/pdprof/security-auth/tree/master/saml-docker/mustgather-saml-1)
 
 ## Sessions and Session Management
 - [db.connections - sessions case / mustgather-sessions-1](https://github.com/pdprof/db-connections/tree/master/derby-docker/mustgather-sessions-1)
