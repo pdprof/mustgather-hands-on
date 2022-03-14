@@ -5,7 +5,7 @@
 
 ## Connections/Connection Pooling/Transaction
 
-Derby
+Derby, Db2
 - [db.connections - db connections case / mustgather-connections-1](https://github.com/pdprof/db-connections/tree/master/derby-docker/mustgather-connections-1)
 
 ## Servlet Engine/Web ContainerCancel changes
