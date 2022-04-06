@@ -8,7 +8,7 @@
 Derby, Db2
 - [db.connections - db connections case / mustgather-connections-1](https://github.com/pdprof/db-connections/tree/master/derby-docker/mustgather-connections-1)
 
-## Servlet Engine/Web ContainerCancel changes
+## Servlet Engine/Web Container
 - [pdpro - hang test case / mustgather-hang-1](https://github.com/pdprof/crash-heapdump/tree/master/pdpro-docker/mustgather-hang-1)
 
 ## Security
