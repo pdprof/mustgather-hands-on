@@ -33,6 +33,10 @@ IBM MQ, ActiveMQ and SIBus are used for JMS Provider.
 - [jms - jms case / mustgather-jms-1](https://github.com/pdprof/jms/tree/master/jms-docker/mustgather-jms-1)
 
 
+## Hands on tips
+
+- [Standalone java program by docker](https://github.com/pdprof/hands-on-tips)
+- [tWAS docker](https://github.com/pdprof/hands-on-tips)
 
 ## Reference
 - [Set up trace and get a full dump for WebSphere Liberty](https://www.ibm.com/support/pages/node/476701)
